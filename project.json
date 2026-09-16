@@ -1,0 +1,41 @@
+{
+  "id": 36,
+  "category": "game-offline",
+  "slug": "civilization-vii-campaign-notebook",
+  "target": "Sid Meier's Civilization VII",
+  "appid": "1295660",
+  "summaryRu": "Справочник одиночных экономических экспериментов и переходов этапов кампании.",
+  "features": [
+    "Age transition notes",
+    "Settlement economy comparisons",
+    "Ruleset test journal"
+  ],
+  "title": "EraLedger — Sid Meier's Civilization VII — Eras",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-store-presence",
+      "sourceId": "steam-top-sellers",
+      "detail": "Present in the retrieved top-seller-filtered store response; regional/session ordering may vary."
+    }
+  ],
+  "brand": "EraLedger",
+  "repositoryName": "eraledger-civilization-vii-campaign-notebook-eras",
+  "githubTopics": [
+    "sid-meiers-civilization-vii",
+    "age-transitions",
+    "settlement-economy",
+    "campaign-journal",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "eras"
+}
